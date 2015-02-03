@@ -11,11 +11,6 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
-/**
- * Created by kristor on 3.02.2015.
- */
-
-
 public class createIssue {
     private WebDriver driver;
     private String baseUrl;
